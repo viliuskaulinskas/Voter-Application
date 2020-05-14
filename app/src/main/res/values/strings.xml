@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voter Application</string>
+    <string name="this_is_demo_simulation_of_digital_postal_voting_system">This is demo simulation of digital postal voting system.</string>
+    <string name="present_the_ballot">Present the ballot</string>
+    <string name="ballotTitle">Election of the Memeber of Parliament for the Darlington Constituency</string>
+    <string name="instruction">Vote for only one candidate by ticking the box next to your choice</string>
+</resources>
